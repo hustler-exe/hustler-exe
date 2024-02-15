@@ -83,9 +83,6 @@
   <a href="https://cloud.google.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="52" height="40" alt="googlecloud logo"  />
   </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="52" height="40" alt="amazonwebservices logo"  />
-  </a>
   <a href="https://www.oracle.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="52" height="40" alt="oracle logo"  />
   </a>
