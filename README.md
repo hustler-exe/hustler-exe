@@ -44,24 +44,30 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52 height="40" alt="css3 logo"  />
   </a>
+  <!--
   <a href="https://www.oracle.com/in/java" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52 height="40" alt="java logo"  />
   </a>
+  -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52 height="40" alt="javascript logo"  />
   </a>
+  <!--
   <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="52 height="40" alt="c logo"  />
   </a>
   <a href="https://cplusplus.com/doc/tutorial" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="52 height="40" alt="cplusplus logo"  />
   </a>
+  -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52 height="40" alt="python logo"  />
   </a>
+  <!--
   <a href="https://www.php.net/docs.php" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52 height="40" alt="php logo"  />
   </a>
+  -->
   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52 height="40" alt="bash logo"  />
   </a>
@@ -83,9 +89,11 @@
   <a href="https://cloud.google.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="52" height="40" alt="googlecloud logo"  />
   </a>
+  <!--
   <a href="https://www.oracle.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="52" height="40" alt="oracle logo"  />
   </a>
+  -->
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="40" alt="mysql logo"  />
   </a>
